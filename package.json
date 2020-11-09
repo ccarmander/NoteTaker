@@ -1,0 +1,23 @@
+{
+  "name": "notetaker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccarmander/NoteTaker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "uuidv4": "^6.2.5"
+  },
+  "bugs": {
+    "url": "https://github.com/ccarmander/NoteTaker/issues"
+  },
+  "homepage": "https://github.com/ccarmander/NoteTaker#readme"
+}
